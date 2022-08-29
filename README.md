@@ -33,8 +33,8 @@ go install github.com/eleven26/udns@latest
 
 ```yaml
 endpoint: "alidns.cn-shenzhen.aliyuncs.com"
-access_key_id: "LTAIS1a2ad0baa2Xj"
-access_key_secret: "4IZswa21a3Y1aZSdB8xDG0ZfvaBnYvH"
+access_key_id: ""
+access_key_secret: ""
 domain: example.com
 replace: vpn.example.com
 ```
