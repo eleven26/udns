@@ -1,0 +1,5 @@
+endpoint: "alidns.cn-shenzhen.aliyuncs.com"
+access_key_id: "LTAIS1a2d0baa2Xj"
+access_key_secret: "4IZsw0ea3Y1aZSdB8xDG0ZfvaBnYvH"
+domain: example.com
+replace: vpn.example.com
