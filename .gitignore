@@ -18,3 +18,4 @@ bin
 .idea
 config.yml
 udns
+dist/

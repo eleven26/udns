@@ -26,6 +26,10 @@ integration:
 build:
 	go build -o udns
 
+.PHONY: release
+release:
+	goreleaser release --snapshot --rm-dist
+
 .PHONY: all
 all:
 	make check
